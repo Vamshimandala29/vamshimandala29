@@ -34,3 +34,7 @@ Technologies: PHP, MySQL, C++
 Implemented data classification models using Neural Networks and SVM .
 Technologies: Python, Neural Networks, SVM
 
+**Publications**
+Pushlish journal in International Journal for Research in Applied Science and Engineering Technology (IJRASET) on Disease Predictor Based on Symptoms Using Machine Learning 
+
+publication link: https://www.ijraset.com/best-journal/disease-predictor-based-on-symptoms-using-machine-learning 
