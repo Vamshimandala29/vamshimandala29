@@ -1,4 +1,4 @@
-**Vamshi Mandala - Computer Science Graduate Student**
+**Vamshi Krishna Reddy Mandala - Computer Science Graduate Student**
 
 Hi, I'm Vamshi Krishna Reddy Mandala , a Computer Science graduate student at the University of Missouri Kansas City with a GPA of 3.8. I hold a B.Tech in Computer Science and Engineering from Sreenidhi Institute of Science and Technology , Hyderabad, India. I am passionate about machine learning and data science, and I have a strong technical skill set including Python , Java , JavaScript , C/C++ , HTML/CSS , SQL , AI , and Big Data .
 
