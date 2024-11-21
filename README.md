@@ -5,6 +5,7 @@ Hi, I'm Vamshi Krishna Reddy Mandala , a Computer Science graduate student at th
 I have worked as an Assistant Systems Engineer at Tata Consultancy Services and a Full Stack Developer at Goal Street Pvt Ltd . I have also contributed to research in disease prediction using machine learning .
 
 **Current Focus**
+
 I am currently focused on applying machine learning techniques to real-world challenges, especially in the field of healthcare, and seeking internship opportunities to contribute to innovative projects.
 
 **Skills**
@@ -19,17 +20,20 @@ Other: Data Science, Big Data
 
 **Assistant Systems Engineer**
 Tata Consultancy Services | August 2022 - December 2022
+
 Developed security policies and contributed to the design of robust systems.
 
 **Full Stack Developer**
 Goal Street Pvt Ltd | May 2020 - July 2020
-Developed a dynamic rental portal for users.
+
+Developed a dynamic rental portal for tenants and landlords
 
 **Projects**
 
 **Remote Patient Monitoring**
 Led the development of a real-time Remote Patient Monitoring system, enabling secure virtual consultations and telemedicine integration.
 Technologies: PHP, MySQL, C++
+
 **Data Classification via Neural Networks and SVM**
 Implemented data classification models using Neural Networks and SVM .
 Technologies: Python, Neural Networks, SVM
