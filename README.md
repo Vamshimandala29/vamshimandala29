@@ -16,6 +16,7 @@ Databases & Tools: MySQL, AWS, Git, Ubuntu
 Other: Data Science, Big Data
 
 **Experience**
+
 **Assistant Systems Engineer**
 Tata Consultancy Services | August 2022 - December 2022
 Developed security policies and contributed to the design of robust systems.
@@ -25,6 +26,7 @@ Goal Street Pvt Ltd | May 2020 - July 2020
 Developed a dynamic rental portal for users.
 
 **Projects**
+
 **Remote Patient Monitoring**
 Led the development of a real-time Remote Patient Monitoring system, enabling secure virtual consultations and telemedicine integration.
 Technologies: PHP, MySQL, C++
